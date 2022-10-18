@@ -1,5 +1,5 @@
 # React Discord Clone
-
+uwu
 > Functional Discord Clone written in Typescript using React, Socket IO, NodeJS, Express and MySQL
 
 View the live verison at -> http://ericellb.github.io/React-Discord-Clone
